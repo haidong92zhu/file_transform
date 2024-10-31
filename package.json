@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "archiver": "^7.0.1",
+    "docx": "^9.0.2",
+    "pdf-parse": "^1.1.1"
+  }
+}
